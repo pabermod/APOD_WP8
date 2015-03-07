@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="es" original="APOD_Multilingual.prilog.xml" tool-id="MultilingualAppToolkit" product-name="APOD" product-version="1.0.0.0" build-num="0">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="3.1.1250.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="Resources">
+        <trans-unit id="Resources\SecondaryButton2\Label" translate="yes" xml:space="preserve">
+          <source>secondary command 2</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">comando secundario 2</target>
+        </trans-unit>
+        <trans-unit id="Resources\SecondaryButton1\Label" translate="yes" xml:space="preserve">
+          <source>secondary command 1</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">comando secundario 1</target>
+        </trans-unit>
+        <trans-unit id="Resources\PivotItem2\Header" translate="yes" xml:space="preserve">
+          <source>previous</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">anterior</target>
+        </trans-unit>
+        <trans-unit id="Resources\PivotItem1\Header" translate="yes" xml:space="preserve">
+          <source>today</source>
+          <target state="translated">hoy</target>
+        </trans-unit>
+        <trans-unit id="Resources\Pivot\Title" translate="yes" xml:space="preserve">
+          <source>ASTRONOMY PICTURE OF THE DAY</source>
+          <target state="translated">FOTO DE ASTRONOMÍA DEL DÍA</target></trans-unit>
+        <trans-unit id="Resources\NewItemTitle" translate="yes" xml:space="preserve">
+          <source>Item title: {0}</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Título del artículo: {0}</target>
+        </trans-unit>
+        <trans-unit id="Resources\NewItemDescription" translate="yes" xml:space="preserve">
+          <source>Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Descripción del artículo: Porta Pellentesque mauris quis interdum vehicula, urna sapien ultrices velit, odio nec venenatis dui augue. Acr posuere, enim una convallis cursus, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.</target>
+        </trans-unit>
+        <trans-unit id="Resources\NavigationFailedExceptionMessage" translate="yes" xml:space="preserve">
+          <source>Navigation Error</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Error de navegación</target>
+        </trans-unit>
+        <trans-unit id="Resources\AppName\Text" translate="yes" xml:space="preserve">
+          <source>ASTRONOMY PICTURE OF THE DAY</source>
+          <target state="translated">FOTO DE ASTRONOMÍA DEL DÍA</target></trans-unit>
+        <trans-unit id="Resources\AddAppBarButton\Label" translate="yes" xml:space="preserve">
+          <source>add</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Agregar</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
